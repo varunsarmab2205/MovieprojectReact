@@ -1,4 +1,4 @@
-import { configureStore } from "@reduxjs/toolkit";
+import { configureStore } from "@Reduxjs/toolkit";
 
 import favoriteReducer from "./favoriteSlice";
 

@@ -1,6 +1,6 @@
-import { useSelector } from "react-redux";
+import { useSelector } from "react-Redux";
 
-import { useDispatch } from "react-redux";
+import { useDispatch } from "react-Redux";
 
 import {
   removeFavorite

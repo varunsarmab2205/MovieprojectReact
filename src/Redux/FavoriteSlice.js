@@ -1,4 +1,4 @@
-import { createSlice } from "@reduxjs/toolkit";
+import { createSlice } from "@Reduxjs/toolkit";
 
 const favoriteSlice = createSlice({
   name: "favorites",
