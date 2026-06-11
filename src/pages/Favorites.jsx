@@ -1,10 +1,10 @@
-import { useSelector } from "react-Redux";
+import { useSelector } from "react-redux";
 
-import { useDispatch } from "react-Redux";
+import { useDispatch } from "react-redux";
 
 import {
   removeFavorite
-} from "../Redux/FavoriteSlice";
+} from "../redux/FavoriteSlice";
 
 function Favorites() {
 

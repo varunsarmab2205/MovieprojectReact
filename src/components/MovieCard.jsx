@@ -6,7 +6,7 @@ from "react-redux";
 import {
   addFavorite
 }
-from "../Redux/FavoriteSlice";
+from "../redux/FavoriteSlice";
 
 function MovieCard({
   movie,

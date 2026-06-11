@@ -1,8 +1,8 @@
 import { useState } from "react";
 
-import { useDispatch } from "react-Redux";
+import { useDispatch } from "react-redux";
 
-import { login } from "../Redux/authSlice";
+import { login } from "../redux/authSlice";
 
 import { useNavigate } from "react-router-dom";
 
